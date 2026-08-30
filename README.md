@@ -57,12 +57,19 @@ Currently exploring **Artificial Intelligence, Machine Learning, Data Science, N
 ---
 
 📊 GitHub Stats
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yatharth783&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yatharth783&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=yatharth783&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yatharth783&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatharth783&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
