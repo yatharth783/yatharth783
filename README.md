@@ -4,7 +4,7 @@
 
 I enjoy building **Machine Learning, AI and software projects** that solve real-world problems.
 
-Currently exploring **Artificial Intelligence, Machine Learning, Data Science, NLP and Full-Stack Development**.
+Currently exploring **Artificial Intelligence, Machine Learning, Data Science, NLP**.
 
 ---
 
