@@ -90,7 +90,5 @@ Currently Learning
 🤖 Machine Learning
 🧠 Deep Learning
 💬 Natural Language Processing
-📊 Data Science
 💻 Data Structures & Algorithms
-🌐 Full Stack Development
 ☁️ Cloud & Deployment
