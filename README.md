@@ -58,42 +58,6 @@ Currently exploring **Artificial Intelligence, Machine Learning, Data Science, N
 
 ---
 
-🚀 Featured Projects
-
-### 📰 Fake News Detection
-
-AI-powered application that classifies news articles as **REAL or FAKE** using NLP and Machine Learning.
-
-**Tech:** Python • NLP • TF-IDF • Scikit-learn • Streamlit
-
-🔗 [View Project](https://github.com/yatharth783/Fake_News_Detection)
-
-🌐 **Live Demo:** YOUR_FAKE_NEWS_STREAMLIT_LINK
-
----
-
-### 📧 Email Spam Detection
-
-Machine Learning based application for detecting whether an email is **Spam or Legitimate**.
-
-**Tech:** Python • NLP • Machine Learning • Streamlit
-
-🔗 [View Project](https://github.com/yatharth783/Email_Spam_Detection)
-
----
-
-EduAI — Student Performance Intelligence
-
-AI-powered academic analytics dashboard that predicts student performance based on academic factors such as attendance, study hours, previous scores, participation and backlogs.
-
-**Tech:** Python • Machine Learning • Pandas • NumPy • Plotly • Streamlit
-
-🔗 [View Project](https://github.com/yatharth783/Student_Performance_Prediction)
-
-🌐 **Live Demo:** YOUR_STUDENT_PERFORMANCE_STREAMLIT_LINK
-
----
-
 📊 GitHub Stats
 
 <div align="center">
