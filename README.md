@@ -16,7 +16,7 @@ Currently exploring **Artificial Intelligence, Machine Learning, Data Science, N
 
 💻 Building practical ML and software projects
 
-📊 Interested in Data Science & Analytics
+🌱 I’m currently learning DSA, System Design and ML.
 
 🧠 Practicing Data Structures & Algorithms
 
