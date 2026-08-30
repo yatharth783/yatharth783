@@ -31,9 +31,8 @@ Currently exploring **Artificial Intelligence, Machine Learning, Data Science, N
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🤖 AI / Machine Learning
+🤖 AI / Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -41,14 +40,14 @@ Currently exploring **Artificial Intelligence, Machine Learning, Data Science, N
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 🌐 Development
+🌐 Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 🗄️ Database & Tools
+🗄️ Database & Tools
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -57,7 +56,7 @@ Currently exploring **Artificial Intelligence, Machine Learning, Data Science, N
 
 ---
 
-## 🚀 Featured Projects
+🚀 Featured Projects
 
 ### 📰 Fake News Detection
 
@@ -81,7 +80,7 @@ Machine Learning based application for detecting whether an email is **Spam or L
 
 ---
 
-### 🎓 EduAI — Student Performance Intelligence
+EduAI — Student Performance Intelligence
 
 AI-powered academic analytics dashboard that predicts student performance based on academic factors such as attendance, study hours, previous scores, participation and backlogs.
 
@@ -93,7 +92,7 @@ AI-powered academic analytics dashboard that predicts student performance based 
 
 ---
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <div align="center">
 
@@ -115,7 +114,7 @@ AI-powered academic analytics dashboard that predicts student performance based 
 
 ---
 
-## 🏆 GitHub Trophies
+🏆 GitHub Trophies
 
 <div align="center">
 
@@ -125,7 +124,7 @@ AI-powered academic analytics dashboard that predicts student performance based 
 
 ---
 
-## 🔗 Connect With Me
+🔗 Connect With Me
 
 <p align="left">
 
