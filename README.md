@@ -63,16 +63,6 @@ Currently exploring **Artificial Intelligence, Machine Learning, Data Science, N
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yatharth783&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatharth783&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
 ---
 
 🔗 Connect With Me
