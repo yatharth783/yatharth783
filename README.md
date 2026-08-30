@@ -106,26 +106,6 @@ AI-powered academic analytics dashboard that predicts student performance based 
 
 ---
 
-## 💻 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatharth783&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yatharth783&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
-
-</div>
-
----
-
 🔗 Connect With Me
 
 <p align="left">
@@ -142,7 +122,7 @@ AI-powered academic analytics dashboard that predicts student performance based 
 
 ---
 
-## 🧠 Currently Learning
+Currently Learning
 
 ```text
 🤖 Machine Learning
