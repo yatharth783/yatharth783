@@ -54,8 +54,7 @@ Currently exploring **Artificial Intelligence, Machine Learning, Data Science, N
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-![Jupiter Notebook](https://colab.research.google.com/assets/colab-badge.svg)]
-
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/yatharth783)
 ---
 
 📊 GitHub Stats
@@ -65,24 +64,6 @@ Currently exploring **Artificial Intelligence, Machine Learning, Data Science, N
 <img src="https://github-readme-stats.vercel.app/api?username=yatharth783&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yatharth783&theme=tokyonight&hide_border=true" />
-
-</div>
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yatharth783&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatharth783&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yatharth783&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
 
